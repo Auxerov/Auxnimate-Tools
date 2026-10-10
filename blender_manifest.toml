@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "auxnimate"
+version = "1.0.0"
+name = "Auxnimate Tools"
+tagline = "Annotation trajectory and 3D motion graph animation generator"
+maintainer = "Auxerov"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
+
+tags = ["Animation"]
